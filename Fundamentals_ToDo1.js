@@ -32,3 +32,15 @@ for ( var num = -300; num < 1; num += 3) {
     }
     console.log(num);    
 }
+
+//Print Integers with While
+
+var num = 2000; 
+
+while ( num < 5280 ) {
+    console.log(num);
+    num += 1;
+}
+
+//You say it's your birthday
+
